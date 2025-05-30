@@ -1,8 +1,13 @@
 # CHANGELOG
+ - É normalmente utilizado o Histórico de Commits 
+- É um doc. utilizado para informar as mudanças que ocorreu  no projeto. Por Exemplo:
 
-- É um documento utilizado para informar as mudanças que ocorreram no projeto. Por exemplo:
-- É normalmente utilizado para históricos de Commits.
 
 ## 1.0
 ### Added
-- Estrutura
+- Estruturação do Projeto
+- MVP do Back-End
+- MVP do Front-End
+
+### Change
+### Remove
